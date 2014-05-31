@@ -6,18 +6,26 @@ A few projects in Scala
 Numbers
 ---------
 
-**find PI to the Nth digit**
+**find PI to the Nth digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+
 **Fibonacci Sequence**
+
 **Prime Factoriation**
+
 **Next Prime Number**
+
 **Find Cost of Tile to cover W x H floor**
+
 **Mortgage Calculator**
+
 **Change Return Program**
 
 Text
 ---------
 **Reverse A string**
+
 **Count Vowels**
+
 **Check if Palindorme**
 
 
