@@ -5,11 +5,11 @@ def Fibonacci(x: Int){
 	var i=0;
 	for( i <- 0 to x )
 	{
-		value = st+ne
-		st=ne
-		ne=value
+		value = st+ne;
+		st=ne;
+		ne=value;
 		println(" Value of fib : "+value);
 	}
 }
 
-Fibonacci(20)
+Fibonacci(20);
