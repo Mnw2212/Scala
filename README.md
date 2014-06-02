@@ -1,5 +1,6 @@
 Scala
 =====
+[![Build Status](https://travis-ci.org/Mnw2212/Scala.svg?branch=master)](https://travis-ci.org/Mnw2212/Scala)
 
 A few projects in Scala
 
